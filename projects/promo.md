@@ -1,3 +1,7 @@
+---
+layout: min
+---
+
 # PRoMo (Platform Robot Mobile)
 
 

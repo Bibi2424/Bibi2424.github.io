@@ -1,3 +1,7 @@
+---
+layout: min
+---
+
 # MMMK: MiniMediaMacroKeyboard
 
 Simple project to have some more Macro keys.
